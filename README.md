@@ -1,10 +1,6 @@
-# gsap2023
+# gsap2024
 
 #GSAP Parallax Effect
-<h3>유투브 재생 목록</h3>
-<ul class="refer5">
-    <li>https://www.youtube.com/playlist?list=PL4UVBBIc6giL8-6jvrClimg0cFL-Muqiq</li>
-</ul>
 
 <h3>샘플 예제</h3>
 <ul class="refer5">
